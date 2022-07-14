@@ -6,11 +6,11 @@
  ## Hi there 👋<br>
 
  
-### About me:
+## About me:
 
-16 anos<br>
-Estudante de desenvolvimento web<br>
-Inicante no mundo de Ti
+🐱‍👤16 anos<br>
+💻Estudante de desenvolvimento web<br>
+📒Inicante no mundo de Ti
 
 ## 
 
