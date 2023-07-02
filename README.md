@@ -1,6 +1,6 @@
 
 <div>
- <img align="right" height="520em" src="https://i.pinimg.com/564x/71/af/9c/71af9cfc83484c6f944a7955882f39b3.jpg">
+ <img align="right" height="350em" src="https://i.pinimg.com/564x/50/df/52/50df527e74ee7dd09d56f471ce97090f.jpg">
  </div>
  
  ## Hi there 👋<br>
