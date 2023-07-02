@@ -8,9 +8,8 @@
  
 ## About me:
 
-🐱‍👤16 anos<br>
+🐱‍👤17 anos<br>
 💻Estudante de desenvolvimento web<br>
-📒Inicante no mundo de Ti
 
 ## 
 
